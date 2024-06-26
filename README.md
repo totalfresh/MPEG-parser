@@ -15,7 +15,7 @@ To build the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/totalfresh/Parser
+    git clone https://github.com/totalfresh/MPEG-parser
     cd TS-PARSER
     ```
 
@@ -73,7 +73,7 @@ Aby skompilować projekt, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium:
     ```bash
-    git clone https://github.com/totalfresh/Parser
+    git clone https://github.com/totalfresh/MPEG-parser
     cd TS-PARSER
     ```
 
