@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/Parser/build",
+  "command": "/usr/bin/c++     -Wall -Wextra -Wpedantic -g -fPIE   -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/tsTransportStream.cpp.o -c /workspaces/Parser/tsTransportStream.cpp",
+  "file": "/workspaces/Parser/tsTransportStream.cpp"
+},
+{
+  "directory": "/workspaces/Parser/build",
+  "command": "/usr/bin/c++     -Wall -Wextra -Wpedantic -g -fPIE   -std=gnu++17 -o CMakeFiles/TS-PARSER.dir/TS_parser.cpp.o -c /workspaces/Parser/TS_parser.cpp",
+  "file": "/workspaces/Parser/TS_parser.cpp"
+}
+]
